@@ -18,6 +18,12 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
+## 🗺️ Mapping Technologies
+
+![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-%237EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+![Mapbox](https://img.shields.io/badge/-Mapbox-%23000000?style=flat-square&logo=mapbox&logoColor=white)
+![MapLibre](https://img.shields.io/badge/-MapLibre-%23396CB2?style=flat-square&logo=maplibre&logoColor=white)
+
 ## ⚙️ Backend & Infrastructure
 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -47,7 +53,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Xcode](https://img.shields.io/badge/-Xcode-%231575F9?style=flat-square&logo=xcode&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-%23F9DC3E?style=flat-square&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=black)
